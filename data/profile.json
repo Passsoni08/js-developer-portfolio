@@ -45,13 +45,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "API Pokedex",
+      "url": "https://github.com/Passsoni08/Pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Portfolio",
+      "url": "https://github.com/Passsoni08/Portfolio",
+      "github": true
+    },
+    {
+      "name": "Mosquito Killer",
+      "url": "https://github.com/Passsoni08/MataMosquito",
       "github": true
     }
   ],
